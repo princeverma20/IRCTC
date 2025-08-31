@@ -18,7 +18,8 @@ CREATE TABLE `User` (
 
 
 INSERT INTO User
-VALUES ('rakesh','rakesh','kumar','9587162482','rakeshxxxxxxxx1111@gmail.com','957841256314','2002-12-09','male','rakesh');
+VALUES ('rakesh','rakesh','kumar','9587162482','rakeshxxxxxxxx1111@gmail.com','957841256314','2002-12-09','male','rakesh'),
+	('shailendra','shailendra','kori','8305941406','shailendrako2002@gmail.com','325919568886','2002-09-27','male','shailendra');
 
 CREATE TABLE `stations` (
   `stationCode` varchar(10) NOT NULL,
